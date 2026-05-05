@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bruno Raposo
 
-<!--
-**BrunoRaposoo/BrunoRaposoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focado em construção de produtos escaláveis, performance e aplicações reais.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente
+Desenvolvendo um SaaS multi-tenant para gestão de clínicas, com arquitetura moderna e foco em produto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Stack principal
+- Frontend: React, Next.js, TypeScript
+- Backend: Node.js, NestJS
+- Banco de dados: PostgreSQL, MongoDB
+- Infraestrutura: Docker, Redis
+
+## 🔥 Destaque
+- SaaS completo com RBAC, agenda inteligente, financeiro e dashboard analítico
+- Arquitetura escalável (Next.js + NestJS + Prisma + PostgreSQL)
+- Processamento assíncrono com filas (BullMQ)
+
+## 📌 Projetos principais
+- [Clinica SaaS](https://github.com/BrunoRaposoo/clinica-saas)
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/bruno-raposo-dev/
