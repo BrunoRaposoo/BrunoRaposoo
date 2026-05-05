@@ -68,8 +68,8 @@ https://github.com/BrunoRaposoo/clinica-saas
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoRaposoo&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRaposoo&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoRaposoo&show_icons=true&bg_color=00000000&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRaposoo&layout=compact&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
